@@ -64,7 +64,7 @@ Sample items.conf
         visu=yes
 ```
 
-Configuration in plugins.conf:
+Configuration in SmartHome.py plugin.conf:
 
 ```
 [helios]
