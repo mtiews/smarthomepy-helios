@@ -186,7 +186,7 @@ class HeliosBase():
             elif rawvalue == 0x3F: 
                 value = 6
             elif rawvalue == 0x7F: 
-                rawvalue = 7
+                value = 7
             elif rawvalue == 0xFF: 
                 value = 8
             else:
